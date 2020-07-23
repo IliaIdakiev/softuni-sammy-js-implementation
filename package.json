@@ -1,0 +1,16 @@
+{
+  "name": "Sammy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "ws --spa index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "local-web-server": "^4.2.1",
+    "path-to-regexp": "^6.1.0"
+  }
+}
